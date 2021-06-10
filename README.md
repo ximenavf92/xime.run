@@ -1,6 +1,6 @@
-# cass.run
+# xime.run 🏃‍♀️
 
-My own lil URL shortener
+My own lil URL shortener thanks to [@cassidoo's](http://twitter.com/cassidoo) own lil URL shortner [here](https://github.com/cassidoo/cass.run).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/97d21626-4a0e-4a5b-b658-9f559133e4aa/deploy-status)](https://app.netlify.com/sites/cass-run/deploys)
 
